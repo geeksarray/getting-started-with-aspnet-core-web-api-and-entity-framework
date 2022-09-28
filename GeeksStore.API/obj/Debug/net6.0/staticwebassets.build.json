@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fdIx263C+QHdD1PVoHTRq3ljhBM4Piy1m9LtmixMgS8=",
+  "Source": "GeeksStore.API",
+  "BasePath": "_content/GeeksStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
